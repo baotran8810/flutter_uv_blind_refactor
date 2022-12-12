@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H524" minimumToolsVersion="Xcode 7.0" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="FileItem" representedClassName=".FileItem" syncable="YES">
+        <attribute name="codeType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createdDate" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fileId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fileName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ids" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isFavourite" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isJanCode" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isQRCode" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="readOutContent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sourceContent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="targetLanguage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="translatedContent" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PushMessage" representedClassName=".PushMessage" syncable="YES">
+        <attribute name="count" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isLiked" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isRead" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="likeId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pushId" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="FileItem" positionX="-63" positionY="-18" width="128" height="223"/>
+        <element name="PushMessage" positionX="-63" positionY="45" width="128" height="118"/>
+    </elements>
+</model>

@@ -1,0 +1,10 @@
+flutter_native_splash:
+  image: assets/images/splash.png
+  color: "#FFFFFF"
+
+  android_gravity: fill_vertical
+  ios_content_mode: scaleAspectFit
+
+  web: false
+
+  # flutter pub run flutter_native_splash:create

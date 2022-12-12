@@ -1,0 +1,7 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path_android: "assets/images/launcher_icons/icon_prod_android.png"
+  image_path_ios: "assets/images/launcher_icons/icon_prod_ios.png"
+
+#  flutter pub run flutter_launcher_icons:main -f flutter_launcher_icons-prod.yaml

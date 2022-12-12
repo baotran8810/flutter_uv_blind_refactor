@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IntentPhrases</key>
+	<array>
+		<dict>
+			<key>IntentName</key>
+			<string>INSearchForNotebookItemsIntent</string>
+			<key>IntentExamples</key>
+			<array>
+				<string>Uni-VoiceBlindの今月のノートを探す</string>
+				<string>Uni-VoiceBlindの今日のノートを探す</string>
+				<string>Uni-VoiceBlindのノートを探す</string>
+				<string>Show me all my notes on Uni-VoiceBlind</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

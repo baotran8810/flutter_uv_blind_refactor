@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by Bao Tran on 22/08/2021.
+  
+*/
+CFBundleDisplayName = "ユニボイスブラインド";
+NSCameraUsageDescription = "このアプリは、コードをスキャンするためにカメラへのアクセスが必要です。";
+NSMicrophoneUsageDescription = "「レコード開始」ボタンを押しすると、マイクが利用されて音声をレコードします。";
+NSSiriUsageDescription = "メモはSiriと共有されます。";
+NSSpeechRecognitionUsageDescription = "音声認識を使用して、このデバイスのマイクに向かって話す単語を決定します。";
+NSLocationWhenInUseUsageDescription = "このアプリは、位置情報にアクセスしてメッセージを取得し、位置情報でフィルタリングして、ユーザーにナビゲートするように指示する必要があります。";

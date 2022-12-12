@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "project_number": "986155263417",
+    "firebase_url": "https://uni-voice-fa7fa.firebaseio.com",
+    "project_id": "uni-voice-fa7fa",
+    "storage_bucket": "uni-voice-fa7fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:1f977129448e8264",
+        "android_client_info": {
+          "package_name": "jp.co.uv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-hgopaacfghu26mbucs84fn8e9uup1fqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.uv",
+            "certificate_hash": "6956789823da207cd543004116fd7219f6f445d1"
+          }
+        },
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:d9d356ff1cd427b5740268",
+        "android_client_info": {
+          "package_name": "jp.co.uv.blind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-025glu9qjvvti28jio1lm1mnqcb44nj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.uv.blind",
+            "certificate_hash": "6956789823da207cd543004116fd7219f6f445d1"
+          }
+        },
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:72ff28eb5cda734c740268",
+        "android_client_info": {
+          "package_name": "jp.co.uv.blind.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-tp53htrcjeq7cb20lq0b0s7jb0uvdtpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.uv.blind.dev",
+            "certificate_hash": "6956789823da207cd543004116fd7219f6f445d1"
+          }
+        },
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:b3967084b0d0904f740268",
+        "android_client_info": {
+          "package_name": "jp.co.uv.blind.stag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-sdtb51qij9g61c02i2qmsekrthl4s0o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.uv.blind.stag",
+            "certificate_hash": "6956789823da207cd543004116fd7219f6f445d1"
+          }
+        },
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:c20325df926abf65740268",
+        "android_client_info": {
+          "package_name": "jp.co.uv.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986155263417:android:5ee7d41d00cf6df9740268",
+        "android_client_info": {
+          "package_name": "jp.co.uv.stag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAC1eAaUzOtFfx8Rpro8-hs6yqonsIUd0"
+        },
+        {
+          "current_key": "AIzaSyD_URDXIuoxyg4AH6URDonVJzBgCJ160yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986155263417-rjjhrhcrtc27k60t2n7j1kt9ja2e3d9l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.uni-voice.blind.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

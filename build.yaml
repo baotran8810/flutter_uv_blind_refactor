@@ -1,0 +1,16 @@
+targets:
+  $default:
+    builders:
+      json_serializable:
+        options:
+          # Options configure how source code is generated for every
+          # `@JsonSerializable`-annotated class in the package.
+          explicit_to_json: true
+
+# builders:
+#   language_builder:
+#     import: "package:flutter_uv_blind_refactor/common/translations/builder/language_builder.dart"
+#     builder_factories: [ "languageBuilder" ]
+#     build_extensions: { ".lang.json": [ ".lang.dart" ] }
+#     build_to: source
+#     auto_apply: root_package

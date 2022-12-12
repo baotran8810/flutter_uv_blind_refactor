@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="80" width="80" xmlns="http://www.w3.org/2000/svg">
+    <path d="M40,40m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" fill="#CA428C"/>
+    <path d="M57.5,27.5V20H22.5V27.5H15V59.9999H35V50H45V59.9999H65V27.5H57.5ZM37.5,35H32.4999V37.4999H37.5V39.9999H30V32.4999H35V30H30V27.5H37.5V35ZM50,39.9999H47.5001V34.9999H42.5V27.4999H45V32.4999H47.4999V27.4999H49.9999V39.9999H50Z" fill="#ffffff"/>
+</svg>

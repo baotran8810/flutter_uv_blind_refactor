@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.986155263417-1l9v08hehtf6qa45dic77j4l3ob3bo5l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>986155263417-025glu9qjvvti28jio1lm1mnqcb44nj4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_xAm5NZ5oD3c_JnWQcM-fH68aZS4oyM4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>986155263417</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jp.uni-voice.blind.dev</string>
+	<key>PROJECT_ID</key>
+	<string>uni-voice-fa7fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>uni-voice-fa7fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:986155263417:ios:ad8e4f1c72d1e151740268</string>
+	<key>DATABASE_URL</key>
+	<string>https://uni-voice-fa7fa.firebaseio.com</string>
+</dict>
+</plist>
